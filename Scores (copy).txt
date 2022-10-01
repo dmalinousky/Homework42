@@ -1,0 +1,5 @@
+IVANOV 7 8 9
+Petrov 3 8 4
+SIDOROV 5 9 8
+SMIRNOV 10 10 10
+Alekseev
